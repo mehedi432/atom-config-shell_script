@@ -1,5 +1,6 @@
 #!/bin/bash
 apm install atom-beautify
+apm install atom-live-server
 apm install minimap
 apm install linter-ui-default
 apm install file-icons
