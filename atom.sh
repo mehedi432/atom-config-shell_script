@@ -17,9 +17,7 @@ apm install autoclose-html
 apm install atom-ide-ui
 apm install minimap-highlight-selected
 apm install atom-clock
-apm install bracket-matcher
-apm install language-shellscript
-apm install autocomplete-css
+apm install fonts
 apm install atom-runner
 apm install highlight-line
 
