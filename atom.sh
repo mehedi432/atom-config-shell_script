@@ -1,4 +1,5 @@
 #!/bin/bash
+apm install atom-runner
 apm install atom-beautify
 apm install atom-live-server
 apm install minimap
